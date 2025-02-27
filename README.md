@@ -27,10 +27,5 @@ I'm a **Software Engineering Student from Pakistan** and an **Aspiring Web Devel
 - 🚀 **Travel and Tourism Management System([GitHub Repository Link](https://github.com/ahmadhassan-prodev/Travel-and-Tourism-Management-System))** - This is my semester project in which I made an application that gives the function of booking a travel package, a destination, and a hotel.
 ---
 
-### 🌍 Connect with Me
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/ahmadhassan-dev)
-[!ahmadhassan.prodev@gmail.com(https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmadhassan.prodev@gmail.com)
-
----
 
 🔹 *Let's build something amazing together!* 🚀
