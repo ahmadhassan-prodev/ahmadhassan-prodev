@@ -1,13 +1,11 @@
-### Hi there, I'm Ahmad Hassan! 👋
-
-I'm a **Software Engineering Student from Pakistan** and an **Aspiring Web Developer** passionate about coding and problem-solving. Currently, I'm learning **Java** while expanding my knowledge in **C and C++**.
+### Hi 👋, I'm Ahmad Hassan! 
 
 ---
 
 ### 🚀 About Me
-- 🎓 **Software Engineering Student** | Passionate about coding & development
+- 🎓 **Software Engineering Student from Pakistan** | Passionate about coding & development
 - 💻 Proficient in **C, C++**, and currently learning **Java**
-- 🌱 Exploring **Web Development & Open-Source Contribution**
+- 🌱 **Aspiring Web Develope**
 - 🔍 Interested in **Backend Development, Data Structures & Algorithms**
 - 📫 Reach me at: ahmadhassan.prodev@gmail.com
 
